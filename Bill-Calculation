@@ -1,0 +1,3 @@
+read items from 1 to n
+sum=sum+item
+print "thr amount is" sum
